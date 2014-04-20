@@ -73,3 +73,4 @@ date_num_calculator
 # コンタクト
 当スクリプトに関するご連絡は[Twitter(@note103)](https://twitter.com/note103)かIssues、プルリク等にてご遠慮なくどうぞ。
 
+
