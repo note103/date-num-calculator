@@ -2,10 +2,10 @@ date_num_calculator
 ===================
 日付にまつわる2つのスクリプトです。
 
-# dd2n.pl
+## dd2n.pl
 2つの日付を入力し、その差分日数を対話形式で出力します。
 
-## 使い方
+### 使い方
 1) ターミナルで実行。
 
 ![1](https://dl.dropboxusercontent.com/u/7779513/script/dd2n/1.png)
@@ -33,7 +33,7 @@ date_num_calculator
 
 ***
 
-# dn2d.pl
+## dn2d.pl
 1つの日付と1つの数値を入力し、加減したそれぞれの日数を対話形式で出力します。
 
 1) ターミナルで実行。
@@ -60,7 +60,7 @@ date_num_calculator
 
 ![6](https://dl.dropboxusercontent.com/u/7779513/script/dn2d/6.png)
 
-## 極端な例
+### 極端な例
 
 7) 数字を入れる段階で「44698」を入れてみます。
 
@@ -70,7 +70,7 @@ date_num_calculator
 
 ![7](https://dl.dropboxusercontent.com/u/7779513/script/dn2d/8.png)
 
-# コンタクト
+## コンタクト
 当スクリプトに関するご連絡は[Twitter(@note103)](https://twitter.com/note103)かIssues、プルリク等にてご遠慮なくどうぞ。
 
 
