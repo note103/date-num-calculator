@@ -1,4 +1,4 @@
-date_num_calculator
+date-num-calculator
 ===================
 日付にまつわる2つのスクリプトです。
 
